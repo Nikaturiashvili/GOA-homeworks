@@ -1,0 +1,7 @@
+print("This homework and that homework is " + "variety" )
+print("This homework is " + "incorrect")
+print("Im sorry for your " + "loss")
+print("Did u select his gift? ")
+print("Can u handle this? ")
+print("have you told him yet? ")
+print("I am taking a survey ")
