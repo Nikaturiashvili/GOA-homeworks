@@ -29,4 +29,4 @@ print(num_1 >= num_2) #True
 
 print(num_1 != num_2) #True
 
-print(num_1 == num_2) 
+print(num_1 == num_2) #False
