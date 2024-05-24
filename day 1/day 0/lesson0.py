@@ -146,6 +146,7 @@ left(90)
 forward(25)
 left(90)
 forward(40)
+
 exitonclick()
 
 
