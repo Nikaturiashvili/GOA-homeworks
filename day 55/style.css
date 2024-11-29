@@ -1,0 +1,10 @@
+div . {
+    background-color: lightslategray;
+
+}
+
+div . {
+    background-color: white;
+    border: 5in;
+    border-bottom:color(from color srgb r g b)
+}
